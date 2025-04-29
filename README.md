@@ -7,10 +7,12 @@
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
 2. Install dependencies with npm install
-3. 
 
-```bash
+
+## How to Run 
+Open the Cypress Test Runner : npx Cypress open
+elect the desired spec files to execute
