@@ -1,0 +1,26 @@
+[
+    {
+      "option": "Name (A to Z)",
+      "selector": ".inventory_item_name",
+      "type": "text",
+      "order": "asc"
+    },
+    {
+      "option": "Name (Z to A)",
+      "selector": ".inventory_item_name",
+      "type": "text",
+      "order": "desc"
+    },
+    {
+      "option": "Price (low to high)",
+      "selector": ".inventory_item_price",
+      "type": "price",
+      "order": "asc"
+    },
+    {
+      "option": "Price (high to low)",
+      "selector": ".inventory_item_price",
+      "type": "price",
+      "order": "desc"
+    }
+  ]
