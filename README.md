@@ -14,5 +14,5 @@
 
 
 ## How to Run 
-Open the Cypress Test Runner : npx Cypress open
-elect the desired spec files to execute
+-Open the Cypress Test Runner : npx Cypress open
+-Select the desired spec files to execute
