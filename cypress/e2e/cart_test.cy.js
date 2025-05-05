@@ -1,7 +1,7 @@
 
-import loginPom  from "./login-pom"
-import inventory_pom from "./inventory_pom"
-import cart_pom from "./cart_pom"
+import loginPom  from "./POM/login-pom"
+import inventory_pom from "./POM/inventory_pom"
+import cart_pom from "./POM/cart_pom"
 
 
 describe ('cart test ', ()=> {
