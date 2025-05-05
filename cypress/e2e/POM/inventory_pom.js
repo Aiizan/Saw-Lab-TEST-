@@ -37,7 +37,7 @@ class Inventory {
               
                       cy.get(selector).then($els => {
                         const values = [...$els].map(el => {
-                          const text = el.innerText.trim()
+                          const text = el.innerText.trim() 
                           return type === 'price' ? parseFloat(text.replace('$', '')) : text
                         })
               
